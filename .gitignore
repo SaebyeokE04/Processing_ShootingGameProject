@@ -1,0 +1,16 @@
+# 검증용 라이브러리·빌드·생성 이미지
+/validation/
+*.class
+*.jar
+*.zip
+
+# Processing 내보내기 및 기본 저장 결과
+application.*/
+out/
+build/
+MyFilterStudio/studio_result.*
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+desktop.ini
